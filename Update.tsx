@@ -556,3 +556,4 @@
 {"error":"{\"Error_GUID\":\"320986516841339727\",\"Error\":\"getSupportedApi jsonrpc failed {reason:api not supported {name:eth_getBlockByNumber,connectionType:POST},method:eth_getBlockByNumber}\"}"}
 {"error":"{\"Error_GUID\":\"12573903561910272991\",\"Error\":\"getSupportedApi jsonrpc failed {reason:api not supported {name:eth_getBlockByNumber,connectionType:POST},method:eth_getBlockByNumber}\"}"}
 {"error":"{\"Error_GUID\":\"16809842295335175182\",\"Error\":\"getSupportedApi jsonrpc failed {reason:api not supported {name:eth_getBlockByNumber,connectionType:POST},method:eth_getBlockByNumber}\"}"}
+{"error":"{\"Error_GUID\":\"9970140620207657673\",\"Error\":\"getSupportedApi jsonrpc failed {reason:api not supported {name:eth_getBlockByNumber,connectionType:POST},method:eth_getBlockByNumber}\"}"}
